@@ -17,7 +17,6 @@ function oneMonthFromNow(d) {
     console.log(targetMonth % 12);
     // last day of previous month
   }
-  console.log(d);
 
   return d;
 }
